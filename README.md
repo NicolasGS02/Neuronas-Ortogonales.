@@ -1,3 +1,8 @@
+# Documentación de desarrollo.
+
+Puedes consultar el documento completo aquí:
+[Arquitecturas neuronales Polinómicas](./Arquitecturas%20neuronales%20Polin%C3%B3micas.pdf)
+
 # README - Ejecución del Proyecto
 
 Este repositorio incluye el código y el entorno necesario para ejecutar los modelos de redes neuronales polinómicas en **Python** de forma reproducible.
